@@ -1,12 +1,8 @@
 name: CI
 
 on:
-  pull_request:
-    branches:
-      - "*"
-  push:
-    branches:
-      - "*"
+  release:
+    types: [published]
 
 jobs:
   lint:
