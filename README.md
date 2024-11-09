@@ -1,6 +1,6 @@
 # Vioneta Mini Graph Card
 
-A minimalistic and customizable graph card for [Vioneta](https://github.com/Vioneta/core) UI.
+A minimalistic and customizable graph cards for [Vioneta](https://github.com/Vioneta/core) UI.
 
 The card works with entities from within the **sensor** & **binary_sensor** domain and displays the sensors current state as well as a line graph representation of the history.
 
