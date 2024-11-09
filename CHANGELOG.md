@@ -1,3 +1,10 @@
+# 1.0.0 (2024-11-09)
+
+
+### Features
+
+* add test features ([0a9a02f](https://github.com/Vioneta/vioneta-mini-graph-card/commit/0a9a02f6de19348e63f99b38f5ee4cfd045b7f5f))
+
 ## [0.12.1](https://github.com/kalkih/mini-graph-card/compare/v0.12.0...v0.12.1) (2024-03-20)
 
 

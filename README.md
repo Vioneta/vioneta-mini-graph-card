@@ -26,7 +26,7 @@ This card is available in [VPS](https://vps.vioneta.com/) (Vioneta Plugins Store
 2. Grab `mini-graph-card-bundle.js`:
 
 ```
-$ wget https://github.com/Vioneta/vioneta-mini-graph-card/releases/download/v0.12.1/mini-graph-card-bundle.js
+$ wget https://github.com/Vioneta/vioneta-mini-graph-card/releases/download/v1.0.0/mini-graph-card-bundle.js
 ```
 
 3. Add the resource reference as decribed below.
@@ -37,7 +37,7 @@ If you configure Lovelace via YAML, add a reference to `mini-graph-card-bundle.j
 
 ```yaml
 resources:
-  - url: /local/mini-graph-card-bundle.js?v=0.12.1
+  - url: /local/mini-graph-card-bundle.js?v=1.0.0
     type: module
 ```
 
@@ -61,7 +61,7 @@ Else, if you prefer the graphical editor, use the menu to add the resource:
 
 ```yaml
 resources:
-  - url: /local/mini-graph-card-bundle.js?v=0.12.1
+  - url: /local/mini-graph-card-bundle.js?v=1.0.0
     type: module
 ```
 
